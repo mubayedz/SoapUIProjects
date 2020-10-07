@@ -12,10 +12,13 @@ javac -classpath SoapUI_Jars/* -d ./bin ./src/rest/*.java
 
 javac -classpath SoapUI_Jars/* -d ./bin ./src/soap/*.java
 
-STEP 2:
+NOTE: "rest" is the name of the Package
+NOTE: "SoapUI_Jars" is the name of the folder that have all the Jars to run the project
+
+STEP 2: This is the command to run TestNG
 
 java -cp bin;SoapUI_Jars/* org.testng.TestNG testng.xml
 
-STEP 3:
+STEP 3: Click on Build on Jenkins
 
 CLICK ON "Build"
