@@ -1,7 +1,8 @@
 # SoapUIProjects
 
 
-This is a SoapUIProject that was made by Java 1.8.0
+This is a SoapUIProject that was made by jdk1.8.0_221 to run the test cases
+And Groovy to write the scripts
 
 If you want to run this project with Jenkins:
 
