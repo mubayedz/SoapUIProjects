@@ -1,0 +1,243 @@
+2020-10-07 11:52:23,311 INFO  [log] Get Rekt
+2020-10-07 11:52:23,329 INFO  [log] Test Case Name is Toy
+2020-10-07 11:52:23,330 INFO  [log] Test Case Age is 36
+2020-10-07 11:52:23,373 INFO  [log] The Id is 123
+2020-10-07 11:52:23,375 INFO  [log] His age is 45
+2020-10-07 11:52:23,375 INFO  [log] The name of the department is IT
+2020-10-07 11:52:23,375 INFO  [log] The pizza was of Queso
+2020-10-07 11:52:23,404 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 11:52:23,434 INFO  [log] the project gender is : M
+2020-10-07 12:09:08,770 INFO  [log] Get Rekt
+2020-10-07 12:09:08,804 INFO  [log] Test Case Name is Toy
+2020-10-07 12:09:08,804 INFO  [log] Test Case Age is 36
+2020-10-07 12:09:08,849 INFO  [log] The Id is 123
+2020-10-07 12:09:08,850 INFO  [log] His age is 45
+2020-10-07 12:09:08,851 INFO  [log] The name of the department is IT
+2020-10-07 12:09:08,851 INFO  [log] The pizza was of Queso
+2020-10-07 12:09:08,878 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 12:09:08,900 INFO  [log] the project gender is : M
+2020-10-07 12:29:08,120 INFO  [log] Get Rekt
+2020-10-07 12:29:08,151 INFO  [log] Test Case Name is Toy
+2020-10-07 12:29:08,151 INFO  [log] Test Case Age is 36
+2020-10-07 12:29:08,189 INFO  [log] The Id is 123
+2020-10-07 12:29:08,190 INFO  [log] His age is 45
+2020-10-07 12:29:08,190 INFO  [log] The name of the department is IT
+2020-10-07 12:29:08,190 INFO  [log] The pizza was of Queso
+2020-10-07 12:29:08,218 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 12:29:08,236 INFO  [log] the project gender is : M
+2020-10-07 12:29:09,683 INFO  [log] Get Rekt
+2020-10-07 12:29:09,683 INFO  [log] Test Case Name is Toy
+2020-10-07 12:29:09,683 INFO  [log] Test Case Age is 36
+2020-10-07 12:29:09,684 INFO  [log] The Id is 123
+2020-10-07 12:29:09,684 INFO  [log] His age is 45
+2020-10-07 12:29:09,685 INFO  [log] The name of the department is IT
+2020-10-07 12:29:09,686 INFO  [log] The pizza was of Queso
+2020-10-07 12:29:09,687 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 12:29:09,687 INFO  [log] the project gender is : M
+2020-10-07 14:53:44,758 INFO  [log] Get Rekt
+2020-10-07 14:53:45,239 INFO  [log] Test Case Name is Toy
+2020-10-07 14:53:45,239 INFO  [log] Test Case Age is 36
+2020-10-07 14:53:46,045 INFO  [log] The Id is 123
+2020-10-07 14:53:46,049 INFO  [log] His age is 45
+2020-10-07 14:53:46,050 INFO  [log] The name of the department is IT
+2020-10-07 14:53:46,051 INFO  [log] The pizza was of Queso
+2020-10-07 14:53:46,091 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 14:53:46,173 INFO  [log] the project gender is : M
+2020-10-07 14:53:50,290 INFO  [log] Get Rekt
+2020-10-07 14:53:50,290 INFO  [log] Test Case Name is Toy
+2020-10-07 14:53:50,290 INFO  [log] Test Case Age is 36
+2020-10-07 14:53:50,291 INFO  [log] The Id is 123
+2020-10-07 14:53:50,291 INFO  [log] His age is 45
+2020-10-07 14:53:50,291 INFO  [log] The name of the department is IT
+2020-10-07 14:53:50,292 INFO  [log] The pizza was of Queso
+2020-10-07 14:53:50,292 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 14:53:50,292 INFO  [log] the project gender is : M
+2020-10-07 14:53:51,209 INFO  [log] Get Rekt
+2020-10-07 14:53:51,209 INFO  [log] Test Case Name is Toy
+2020-10-07 14:53:51,210 INFO  [log] Test Case Age is 36
+2020-10-07 14:53:51,210 INFO  [log] The Id is 123
+2020-10-07 14:53:51,210 INFO  [log] His age is 45
+2020-10-07 14:53:51,210 INFO  [log] The name of the department is IT
+2020-10-07 14:53:51,210 INFO  [log] The pizza was of Queso
+2020-10-07 14:53:51,211 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 14:53:51,211 INFO  [log] the project gender is : M
+2020-10-07 16:13:16,756 INFO  [log] Get Rekt
+2020-10-07 16:13:16,780 INFO  [log] Test Case Name is Toy
+2020-10-07 16:13:16,780 INFO  [log] Test Case Age is 36
+2020-10-07 16:13:16,915 INFO  [log] The Id is 123
+2020-10-07 16:13:16,916 INFO  [log] His age is 45
+2020-10-07 16:13:16,916 INFO  [log] The name of the department is IT
+2020-10-07 16:13:16,916 INFO  [log] The pizza was of Queso
+2020-10-07 16:13:17,241 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 16:13:17,329 INFO  [log] the project gender is : M
+2020-10-07 16:47:20,727 INFO  [log] Get Rekt
+2020-10-07 16:47:20,891 INFO  [log] Test Case Name is Toy
+2020-10-07 16:47:20,892 INFO  [log] Test Case Age is 36
+2020-10-07 16:47:21,029 INFO  [log] The Id is 123
+2020-10-07 16:47:21,030 INFO  [log] His age is 45
+2020-10-07 16:47:21,030 INFO  [log] The name of the department is IT
+2020-10-07 16:47:21,030 INFO  [log] The pizza was of Queso
+2020-10-07 16:47:21,058 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 16:47:21,082 INFO  [log] the project gender is : M
+2020-10-07 17:14:51,501 INFO  [log] Get Rekt
+2020-10-07 17:14:51,558 INFO  [log] Test Case Name is Toy
+2020-10-07 17:14:51,558 INFO  [log] Test Case Age is 36
+2020-10-07 17:14:51,693 INFO  [log] The Id is 123
+2020-10-07 17:14:51,694 INFO  [log] His age is 45
+2020-10-07 17:14:51,694 INFO  [log] The name of the department is IT
+2020-10-07 17:14:51,694 INFO  [log] The pizza was of Queso
+2020-10-07 17:14:51,713 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:14:51,728 INFO  [log] the project gender is : M
+2020-10-07 17:14:53,666 INFO  [log] Get Rekt
+2020-10-07 17:14:53,666 INFO  [log] Test Case Name is Toy
+2020-10-07 17:14:53,666 INFO  [log] Test Case Age is 36
+2020-10-07 17:14:53,667 INFO  [log] The Id is 123
+2020-10-07 17:14:53,667 INFO  [log] His age is 45
+2020-10-07 17:14:53,667 INFO  [log] The name of the department is IT
+2020-10-07 17:14:53,668 INFO  [log] The pizza was of Queso
+2020-10-07 17:14:53,668 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:14:53,669 INFO  [log] the project gender is : M
+2020-10-07 17:14:55,363 INFO  [log] Get Rekt
+2020-10-07 17:14:55,363 INFO  [log] Test Case Name is Toy
+2020-10-07 17:14:55,363 INFO  [log] Test Case Age is 36
+2020-10-07 17:14:55,364 INFO  [log] The Id is 123
+2020-10-07 17:14:55,364 INFO  [log] His age is 45
+2020-10-07 17:14:55,364 INFO  [log] The name of the department is IT
+2020-10-07 17:14:55,364 INFO  [log] The pizza was of Queso
+2020-10-07 17:14:55,364 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:14:55,364 INFO  [log] the project gender is : M
+2020-10-07 17:42:53,300 INFO  [log] Get Rekt
+2020-10-07 17:42:53,393 INFO  [log] Test Case Name is Toy
+2020-10-07 17:42:53,394 INFO  [log] Test Case Age is 36
+2020-10-07 17:42:53,625 INFO  [log] The Id is 123
+2020-10-07 17:42:53,628 INFO  [log] His age is 45
+2020-10-07 17:42:53,629 INFO  [log] The name of the department is IT
+2020-10-07 17:42:53,630 INFO  [log] The pizza was of Queso
+2020-10-07 17:42:53,744 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:42:53,813 INFO  [log] the project gender is : M
+2020-10-07 17:42:56,062 INFO  [log] Get Rekt
+2020-10-07 17:42:56,084 INFO  [log] Test Case Name is Toy
+2020-10-07 17:42:56,085 INFO  [log] Test Case Age is 36
+2020-10-07 17:42:56,085 INFO  [log] The Id is 123
+2020-10-07 17:42:56,087 INFO  [log] His age is 45
+2020-10-07 17:42:56,087 INFO  [log] The name of the department is IT
+2020-10-07 17:42:56,089 INFO  [log] The pizza was of Queso
+2020-10-07 17:42:56,090 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:42:56,090 INFO  [log] the project gender is : M
+2020-10-07 17:42:58,390 INFO  [log] Get Rekt
+2020-10-07 17:42:58,390 INFO  [log] Test Case Name is Toy
+2020-10-07 17:42:58,390 INFO  [log] Test Case Age is 36
+2020-10-07 17:42:58,391 INFO  [log] The Id is 123
+2020-10-07 17:42:58,391 INFO  [log] His age is 45
+2020-10-07 17:42:58,391 INFO  [log] The name of the department is IT
+2020-10-07 17:42:58,391 INFO  [log] The pizza was of Queso
+2020-10-07 17:42:58,392 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:42:58,394 INFO  [log] the project gender is : M
+2020-10-07 17:50:25,199 INFO  [log] Get Rekt
+2020-10-07 17:50:25,330 INFO  [log] Test Case Name is Toy
+2020-10-07 17:50:25,331 INFO  [log] Test Case Age is 36
+2020-10-07 17:50:25,539 INFO  [log] The Id is 123
+2020-10-07 17:50:25,547 INFO  [log] His age is 45
+2020-10-07 17:50:25,549 INFO  [log] The name of the department is IT
+2020-10-07 17:50:25,550 INFO  [log] The pizza was of Queso
+2020-10-07 17:50:25,628 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:50:25,660 INFO  [log] the project gender is : M
+2020-10-07 17:50:28,442 INFO  [log] Get Rekt
+2020-10-07 17:50:28,444 INFO  [log] Test Case Name is Toy
+2020-10-07 17:50:28,445 INFO  [log] Test Case Age is 36
+2020-10-07 17:50:28,445 INFO  [log] The Id is 123
+2020-10-07 17:50:28,446 INFO  [log] His age is 45
+2020-10-07 17:50:28,446 INFO  [log] The name of the department is IT
+2020-10-07 17:50:28,447 INFO  [log] The pizza was of Queso
+2020-10-07 17:50:28,448 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:50:28,448 INFO  [log] the project gender is : M
+2020-10-07 17:50:30,589 INFO  [log] Get Rekt
+2020-10-07 17:50:30,589 INFO  [log] Test Case Name is Toy
+2020-10-07 17:50:30,590 INFO  [log] Test Case Age is 36
+2020-10-07 17:50:30,590 INFO  [log] The Id is 123
+2020-10-07 17:50:30,590 INFO  [log] His age is 45
+2020-10-07 17:50:30,591 INFO  [log] The name of the department is IT
+2020-10-07 17:50:30,591 INFO  [log] The pizza was of Queso
+2020-10-07 17:50:30,591 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 17:50:30,591 INFO  [log] the project gender is : M
+2020-10-07 18:24:49,783 INFO  [log] Get Rekt
+2020-10-07 18:24:49,882 INFO  [log] Test Case Name is Toy
+2020-10-07 18:24:49,883 INFO  [log] Test Case Age is 36
+2020-10-07 18:24:50,034 INFO  [log] The Id is 123
+2020-10-07 18:24:50,035 INFO  [log] His age is 45
+2020-10-07 18:24:50,036 INFO  [log] The name of the department is IT
+2020-10-07 18:24:50,036 INFO  [log] The pizza was of Queso
+2020-10-07 18:24:50,075 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:24:50,103 INFO  [log] the project gender is : M
+2020-10-07 18:24:51,688 INFO  [log] Get Rekt
+2020-10-07 18:24:51,688 INFO  [log] Test Case Name is Toy
+2020-10-07 18:24:51,688 INFO  [log] Test Case Age is 36
+2020-10-07 18:24:51,689 INFO  [log] The Id is 123
+2020-10-07 18:24:51,689 INFO  [log] His age is 45
+2020-10-07 18:24:51,690 INFO  [log] The name of the department is IT
+2020-10-07 18:24:51,691 INFO  [log] The pizza was of Queso
+2020-10-07 18:24:51,691 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:24:51,692 INFO  [log] the project gender is : M
+2020-10-07 18:24:52,659 INFO  [log] Get Rekt
+2020-10-07 18:24:52,659 INFO  [log] Test Case Name is Toy
+2020-10-07 18:24:52,659 INFO  [log] Test Case Age is 36
+2020-10-07 18:24:52,660 INFO  [log] The Id is 123
+2020-10-07 18:24:52,660 INFO  [log] His age is 45
+2020-10-07 18:24:52,660 INFO  [log] The name of the department is IT
+2020-10-07 18:24:52,660 INFO  [log] The pizza was of Queso
+2020-10-07 18:24:52,660 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:24:52,661 INFO  [log] the project gender is : M
+2020-10-07 18:37:04,335 INFO  [log] Get Rekt
+2020-10-07 18:37:04,430 INFO  [log] Test Case Name is Toy
+2020-10-07 18:37:04,431 INFO  [log] Test Case Age is 36
+2020-10-07 18:37:04,633 INFO  [log] The Id is 123
+2020-10-07 18:37:04,638 INFO  [log] His age is 45
+2020-10-07 18:37:04,638 INFO  [log] The name of the department is IT
+2020-10-07 18:37:04,639 INFO  [log] The pizza was of Queso
+2020-10-07 18:37:04,768 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:37:04,826 INFO  [log] the project gender is : M
+2020-10-07 18:37:07,169 INFO  [log] Get Rekt
+2020-10-07 18:37:07,170 INFO  [log] Test Case Name is Toy
+2020-10-07 18:37:07,170 INFO  [log] Test Case Age is 36
+2020-10-07 18:37:07,170 INFO  [log] The Id is 123
+2020-10-07 18:37:07,171 INFO  [log] His age is 45
+2020-10-07 18:37:07,171 INFO  [log] The name of the department is IT
+2020-10-07 18:37:07,172 INFO  [log] The pizza was of Queso
+2020-10-07 18:37:07,173 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:37:07,173 INFO  [log] the project gender is : M
+2020-10-07 18:37:08,616 INFO  [log] Get Rekt
+2020-10-07 18:37:08,617 INFO  [log] Test Case Name is Toy
+2020-10-07 18:37:08,618 INFO  [log] Test Case Age is 36
+2020-10-07 18:37:08,618 INFO  [log] The Id is 123
+2020-10-07 18:37:08,619 INFO  [log] His age is 45
+2020-10-07 18:37:08,619 INFO  [log] The name of the department is IT
+2020-10-07 18:37:08,620 INFO  [log] The pizza was of Queso
+2020-10-07 18:37:08,620 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:37:08,621 INFO  [log] the project gender is : M
+2020-10-07 18:49:40,585 INFO  [log] Get Rekt
+2020-10-07 18:49:40,650 INFO  [log] Test Case Name is Toy
+2020-10-07 18:49:40,650 INFO  [log] Test Case Age is 36
+2020-10-07 18:49:40,750 INFO  [log] The Id is 123
+2020-10-07 18:49:40,752 INFO  [log] His age is 45
+2020-10-07 18:49:40,752 INFO  [log] The name of the department is IT
+2020-10-07 18:49:40,752 INFO  [log] The pizza was of Queso
+2020-10-07 18:49:40,797 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:49:40,828 INFO  [log] the project gender is : M
+2020-10-07 18:49:42,750 INFO  [log] Get Rekt
+2020-10-07 18:49:42,750 INFO  [log] Test Case Name is Toy
+2020-10-07 18:49:42,750 INFO  [log] Test Case Age is 36
+2020-10-07 18:49:42,751 INFO  [log] The Id is 123
+2020-10-07 18:49:42,751 INFO  [log] His age is 45
+2020-10-07 18:49:42,751 INFO  [log] The name of the department is IT
+2020-10-07 18:49:42,752 INFO  [log] The pizza was of Queso
+2020-10-07 18:49:42,753 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:49:42,754 INFO  [log] the project gender is : M
+2020-10-07 18:49:44,120 INFO  [log] Get Rekt
+2020-10-07 18:49:44,121 INFO  [log] Test Case Name is Toy
+2020-10-07 18:49:44,121 INFO  [log] Test Case Age is 36
+2020-10-07 18:49:44,121 INFO  [log] The Id is 123
+2020-10-07 18:49:44,122 INFO  [log] His age is 45
+2020-10-07 18:49:44,122 INFO  [log] The name of the department is IT
+2020-10-07 18:49:44,122 INFO  [log] The pizza was of Queso
+2020-10-07 18:49:44,122 INFO  [log] The name of the endpoint is http://localhost:8082/axis2/services/EmployeeManagementService.EmployeeManagementServiceHttpSoap12Endpoint/
+2020-10-07 18:49:44,123 INFO  [log] the project gender is : M

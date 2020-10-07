@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-07T18:49:26 CEST" name="Suite" finished-at="2020-10-07T18:49:57 CEST" duration-ms="30560">
+    <groups>
+    </groups>
+    <test started-at="2020-10-07T18:49:26 CEST" name="Test" finished-at="2020-10-07T18:49:57 CEST" duration-ms="30560">
+      <class name="soap.testRunner">
+        <test-method signature="SoapTest()[pri:0, instance:soap.testRunner@79ca92b9]" started-at="2020-10-07T18:49:43 CEST" name="SoapTest" finished-at="2020-10-07T18:49:44 CEST" duration-ms="927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapTest -->
+      </class> <!-- soap.testRunner -->
+      <class name="rest.restRun">
+        <test-method signature="ApiLibrary()[pri:0, instance:rest.restRun@1460a8c0]" started-at="2020-10-07T18:49:44 CEST" name="ApiLibrary" finished-at="2020-10-07T18:49:57 CEST" duration-ms="12711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiLibrary -->
+      </class> <!-- rest.restRun -->
+      <class name="soap.testRunnerSingle">
+        <test-method signature="SoapTest()[pri:0, instance:soap.testRunnerSingle@8909f18]" started-at="2020-10-07T18:49:26 CEST" name="SoapTest" finished-at="2020-10-07T18:49:42 CEST" duration-ms="15790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapTest -->
+        <test-method signature="singleTest()[pri:0, instance:soap.testRunnerSingle@8909f18]" started-at="2020-10-07T18:49:42 CEST" name="singleTest" finished-at="2020-10-07T18:49:43 CEST" duration-ms="1061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- soap.testRunnerSingle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
